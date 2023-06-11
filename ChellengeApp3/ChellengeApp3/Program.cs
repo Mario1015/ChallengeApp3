@@ -1,6 +1,6 @@
 ﻿var name = "Ewa";
 bool isWoman = true;
-var Age = 17;
+var Age = 33;
 
 if (Age < 30 && isWoman == true)
 {
